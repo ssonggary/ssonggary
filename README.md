@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&desc=ssong's%20GitHub%20Profile&fontSize=90&fontAlignY=45&descAlign=65&descAlignY=58)
+<div align= "center">
+    ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&desc=ssong's%20GitHub%20Profile&fontSize=90&fontAlignY=45&descAlign=65&descAlignY=58)
+</div>
+
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Gahye 😃</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">협업과 소통을 중요시하는 퍼블리셔입니다.</div> 
