@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&desc=ssong's%20GitHub%20Profile&fontSize=90&fontAlignY=45&descAlign=65&descAlignY=58)
 
 <div align= "center">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Gahye 😃</h2>  
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Gahye <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="25" height="25" /></h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">협업과 소통을 중요시하는 퍼블리셔입니다.</div> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">기본에 충실하고 끊임없이 도전합니다!</div> 
 </div>
